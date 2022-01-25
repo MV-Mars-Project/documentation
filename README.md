@@ -37,8 +37,8 @@ allow goods and people to travel more efficiently than ever.***
 
 ## How do we do it ?
 
-By creating a user-friendly mobile focused [**client**](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client) application that communicates through a REST API and sockets with
-our Java [**server**](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/server). 
+By creating a user-friendly mobile focused [**client**](https://github.com/MV-Mars-Project/client) application that communicates through a REST API and sockets with
+our Java [**server**](https://github.com/MV-Mars-Project/server). 
 
 The client allows users to easily order pods for personal or package transportation.
 
@@ -119,7 +119,7 @@ IntelliJ has gradle integration.
 
  
 ### Quick setup:
-* Go to our [**server repo**](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/server)
+* Go to our [**server repo**](https://github.com/MV-Mars-Project/server)
 * Clone the repository
 * Run the server
 
@@ -153,7 +153,7 @@ gradlew run
 The server automatically creates the H2 Database, so no further configuration is needed.
 The server should now be running and available for the client.
 
-### Please refer to the server [readme](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/server) file for more information. 
+### Please refer to the server [readme](https://github.com/MV-Mars-Project/server) file for more information. 
 
 ## Client
 
@@ -164,7 +164,7 @@ The server should now be running and available for the client.
 
 ### Quick setup
 
-* Go to our [**client repo**](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client)
+* Go to our [**client repo**](https://github.com/MV-Mars-Project/client)
 * Clone our repo
 * Install dependencies
 * Install Sass
@@ -175,7 +175,7 @@ Clone the through gitlab:
 
 Or clone the repo using the commandline:
 ```bash
-git clone https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client.git
+git clone https://github.com/MV-Mars-Project/client.git
 ```
 Install dependencies:
 ```bash
@@ -191,7 +191,7 @@ Login: test
 Password: test
 ```
 
-### Please refer to the client [readme](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-15/client) for more information.
+### Please refer to the client [readme](https://github.com/MV-Mars-Project/client) for more information.
 
 ---
 
